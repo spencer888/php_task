@@ -1,7 +1,8 @@
 [
+ "posts":[
   {"id": 1,"name":"Vasiliy","age":"23","occupation":"IT Admin"},
  {"id": 2,"name":"Fedot","age":"29","occupation":"CEO"},
  { "id": 3,"name":"Larisa","age":"25","occupation":"Office manager"},
  { "id": 4,"name":"Test","age":"22","occupation":"StudentTest"}
-
+  ]
 ]
